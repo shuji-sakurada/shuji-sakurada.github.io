@@ -1,37 +1,42 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2019-09-05
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<div class="center"><a href="https://shuji-sakurada.github.io"><b>Shuji Sakurada's Portfolio</b></a> </div>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 使用可能言語、ソフト
+* Html5
+* Css
+* Scss
+* Javascript
+* C#
+* C++
+* Unity
+* Illustrator
+* Photoshop
+* Flash
+* Excel
+* Word
+* PowerPoint
 
-## Preview
+## 職歴
 
-{% capture images %}
+あまた株式会社
+
+<!-- {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub. -->
 
-## Getting Started
+## 自己紹介
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+青森
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Projects](https://shuji-sakurada.github.io/projects){: .btn}
