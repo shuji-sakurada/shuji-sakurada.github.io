@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Z/X Code OverBoost"
+title:  "嵐山よしむら"
 date:   2004-04-12
-excerpt: "Z/X Code OverBoost(ゼクス コード オーバーブースト)アプリ開発"
+excerpt: "嵐山よしむらサイト作成"
 project: true
 tag:
 - Web
@@ -13,8 +13,8 @@ comments: false
 ---
 
 <figure class="half">
-    ![嵐山よしむら](../assets/img/yoshimura.png)
-    ![嵐山よしむら](../assets/img/yoshimura2.jpg)
+    <img src= "../assets/img/yoshimura.png" alt="嵐山よしむら">
+    <img src= "../assets/img/yoshimura2.jpg" alt="嵐山よしむら">
     <figcaption></figcaption>
 </figure>
 <div class="center">
