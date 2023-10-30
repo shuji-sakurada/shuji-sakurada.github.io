@@ -18,7 +18,7 @@ comments: false
     <figcaption></figcaption>
 </figure>
 <div class="center">
-    <a href="http://yoshimura-gr.com/soba/index.php" class="btn">Link</a>
+    <a href="https://yoshimura-gr.com/" class="btn">Link</a>
 </div>
 
 和雑貨販売サイト<b>嵐山よしむら</b>のサイトリニューアルに携わりました。
